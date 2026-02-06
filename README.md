@@ -22,7 +22,7 @@ Hello,<br>My name is **Lowis Roy Figo**. I'm an Engineering Physics student at I
 
 | Metric | Details |
 | :--- | :--- |
-| 🚀 **Main<br>Projects** | [![L4L-Automatic](https://img.shields.io/badge/L4L--Automatic-8A2BE2?style=for-the-badge&logoColor=white)](https://github.com/logoro17/L4L-Automatic) [![ASCII-Cam](https://img.shields.io/badge/ASCII--Cam-7FFF00?style=for-the-badge&logoColor=white)](https://github.com/logoro17/ASCII-Cam) [![Link-Lang](https://img.shields.io/badge/Link--Lang-00BFFF?style=for-the-badge&logoColor=white)](https://github.com/logoro17/link-lang) [![Ghost-Track](https://img.shields.io/badge/Ghost--Track-000000?style=for-the-badge&logoColor=white)](https://github.com/logoro17/GhostTrack)|
+| 🚀 **Main<br>Projects** | [![L4L-Automatic](https://img.shields.io/badge/L4L--Automatic-8A2BE2?style=for-the-badge&logoColor=white)](https://github.com/logoro17/L4L-Automatic) [![ASCII-Cam](https://img.shields.io/badge/ASCII--Cam-7FFF00?style=for-the-badge&logoColor=white)](https://github.com/logoro17/ASCII-Cam) [![Link-Lang](https://img.shields.io/badge/Link--Lang-2058B1?style=for-the-badge&logoColor=white)](https://github.com/logoro17/link-lang) [![Ghost-Track](https://img.shields.io/badge/Ghost--Track-000000?style=for-the-badge&logoColor=white)](https://github.com/logoro17/GhostTrack)|
 | 🛠️ **Primary<br>Stack** | C++, Python, JavaScript (Apps Script), Lua |
 | 📊 **Current<br>Focus** | Compiler Design, Hardware Reverse Engineer, Firmware Engineer, IoT/Embedded System Engineer, Robotics and UAV, Fullstack Dev, UI&UX Designer, Android Dev | 
 | 🔥 **Streak<br>Status** | Maintaining consistency in LinkLang core development |
